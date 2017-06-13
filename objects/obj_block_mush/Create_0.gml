@@ -1,0 +1,1 @@
+spot = irandom(7)
