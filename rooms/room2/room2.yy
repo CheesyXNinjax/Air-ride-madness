@@ -13,11 +13,60 @@
     ],
     "layers": [
         {
+            "__type": "GMRAssetLayer_Model:#YoYoStudio.MVCFormat",
+            "id": "3f1c7c37-8380-4f07-b281-22b74e1cc72b",
+            "modelName": "GMRAssetLayer",
+            "mvc": "1.0",
+            "depth": 0,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "layers": [
+                
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "name": "Assets_1",
+            "userdefined_depth": false,
+            "visible": true,
+            "assets": [
+                {
+                    "__type": "GMRSpriteGraphic_Model:#YoYoStudio.MVCFormat",
+                    "id": "096e862d-d012-4596-bbba-f935dbd3c462",
+                    "modelName": "GMRSpriteGraphic",
+                    "mvc": "1.0",
+                    "ignore": false,
+                    "inheritItemSettings": false,
+                    "m_originalParentID": "00000000-0000-0000-0000-000000000000",
+                    "m_serialiseFrozen": false,
+                    "name": "graphic_42471250",
+                    "x": 512,
+                    "y": 192,
+                    "animationFPS": 15,
+                    "animationSpeedType": 0,
+                    "colour": {
+                        "Value": 4294967295
+                    },
+                    "frameIndex": 0,
+                    "rotation": 0,
+                    "scaleX": 1,
+                    "scaleY": 1,
+                    "spriteId": "af7dd9fb-065d-4635-82dd-89d798f56fd9",
+                    "userdefined_animFPS": false
+                }
+            ]
+        },
+        {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "id": "1a8cd66a-995d-4a80-83ab-05d3d5299140",
             "modelName": "GMRInstanceLayer",
             "mvc": "1.0",
-            "depth": 0,
+            "depth": 100,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -66,7 +115,7 @@
             "id": "50646e9b-cf53-4398-9ba0-1efb849edf68",
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
-            "depth": 100,
+            "depth": 200,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,

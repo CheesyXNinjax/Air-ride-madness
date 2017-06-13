@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "af7dd9fb-065d-4635-82dd-89d798f56fd9",
+            "Value": {
+                "id": "57ea5f16-9676-42fa-9fff-cacd9dee7ddb",
+                "resourcePath": "sprites\\spr_fish\\spr_fish.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b3b35c1c-2767-470e-b8b9-ce1a2e2f74af",
             "Value": {
                 "id": "9d54a312-57fc-4c44-93f3-7f0ac61750ca",
