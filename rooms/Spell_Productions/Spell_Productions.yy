@@ -172,7 +172,7 @@
                     "m_originalParentID": "00000000-0000-0000-0000-000000000000",
                     "m_serialiseFrozen": false,
                     "name": "graphic_2C76CFC4",
-                    "x": 96,
+                    "x": 64,
                     "y": 0,
                     "animationFPS": 30,
                     "animationSpeedType": 0,
@@ -181,8 +181,8 @@
                     },
                     "frameIndex": 0,
                     "rotation": 0,
-                    "scaleX": 2.75,
-                    "scaleY": 2.77777767,
+                    "scaleX": 5.54999971,
+                    "scaleY": 5.62222242,
                     "spriteId": "e1eee0e0-4eae-4f02-be7d-87d212e55f8f",
                     "userdefined_animFPS": false
                 }
