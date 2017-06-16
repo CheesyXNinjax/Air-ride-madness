@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "469bb7af-0921-464e-bc82-f5b8cd72a5c0",
+            "Value": {
+                "id": "8c0e1c61-3b0e-49e1-b0cb-84c2231c9169",
+                "resourcePath": "sounds\\sd_shop\\sd_shop.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "485a04c6-099b-43b9-b540-c84acac907a5",
             "Value": {
                 "id": "410be21f-2d3b-427a-ac46-515e8424a850",
@@ -234,7 +242,7 @@
             "Key": "69f51f49-ee2c-4c95-9f48-6ab4ba585bdf",
             "Value": {
                 "id": "d85a72f5-7e00-49e6-acb8-ca6febf22a0e",
-                "resourcePath": "sounds\\spell\\spell.yy",
+                "resourcePath": "sounds\\sd_spell\\sd_spell.yy",
                 "resourceType": "GMSound"
             }
         },

@@ -1,1 +1,1 @@
-instance_create_layer(x,y,"Instances",fragsmith)
+instance_create_depth(x,y,2,fragsmith)
