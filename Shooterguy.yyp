@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "6507bf74-148e-4ff9-ac1c-c25c695ffa7b",
+            "Value": {
+                "id": "284b9dc4-6076-48f4-a132-2c21209d1902",
+                "resourcePath": "sprites\\spr_spell_bottle\\spr_spell_bottle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6803cd58-b331-4d38-a550-2c1ca06f3226",
             "Value": {
                 "id": "b0e97c4d-45ad-4fd5-a122-644ee402c271",

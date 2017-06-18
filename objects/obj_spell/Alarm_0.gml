@@ -1,1 +1,2 @@
-room_goto_next()
+/// @description start fade
+fade = true
