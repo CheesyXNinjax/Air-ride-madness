@@ -8,3 +8,12 @@ afterfade = 0.5 //seconds after fade out
 fade = false
 fout = false
 a = 1
+
+
+var w, h, v,;
+w = sprite_width
+h = sprite_height
+v = view_current
+cam = camera_create()
+camera_set_view_size(cam,w,h)
+view_set_camera(v,cam)

@@ -2,7 +2,7 @@
     "id": "485a04c6-099b-43b9-b540-c84acac907a5",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_camera",
+    "name": "obj_camera_init",
     "eventList": [
         {
             "id": "e0df56f3-9716-4f89-a142-77a5249fc898",
@@ -31,6 +31,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "c0556981-7878-4001-8f56-d7f296c0eb9b",
+    "spriteId": "9bf548ef-a84e-4534-b7c1-803ca04ffe87",
     "visible": false
 }

@@ -1,18 +1,18 @@
 {
-    "id": "485a04c6-099b-43b9-b540-c84acac907a5",
+    "id": "05a87f16-0e15-4e9c-879c-4ce34593dfd2",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_camera",
+    "name": "obj_camera_use",
     "eventList": [
         {
-            "id": "e0df56f3-9716-4f89-a142-77a5249fc898",
+            "id": "b7f15f73-d2ae-4290-bfe1-20cfbde8b845",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "485a04c6-099b-43b9-b540-c84acac907a5"
+            "m_owner": "05a87f16-0e15-4e9c-879c-4ce34593dfd2"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
