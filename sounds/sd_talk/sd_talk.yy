@@ -1,8 +1,8 @@
 {
-    "id": "469bb7af-0921-464e-bc82-f5b8cd72a5c0",
+    "id": "299b43a1-3cad-4191-bccd-7086d4d61d52",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "sd_shop",
+    "name": "sd_talk",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,

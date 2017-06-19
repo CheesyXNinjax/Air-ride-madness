@@ -113,9 +113,59 @@
         "ea60cf9f-3e7c-4f1d-877d-8c45d93d2c87",
         "c9d9e70c-bd08-4deb-a18d-bdd149b62051",
         "72854b10-4203-4ee5-a221-47dd66df3fbb",
-        "99ded846-ca7c-430e-a50a-96fe8f45aa5f"
+        "99ded846-ca7c-430e-a50a-96fe8f45aa5f",
+        "76560b94-94d8-464b-aee9-7c58c8a4cd83"
     ],
     "layers": [
+        {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "id": "50539898-cadd-4f0a-b33a-cfe44ea41bb2",
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "depth": -99,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "layers": [
+                
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "name": "chat",
+            "userdefined_depth": false,
+            "visible": true,
+            "instances": [
+                {
+                    "id": "76560b94-94d8-464b-aee9-7c58c8a4cd83",
+                    "modelName": "GMRInstance",
+                    "mvc": "1.0",
+                    "ignore": false,
+                    "inheritItemSettings": false,
+                    "m_originalParentID": "00000000-0000-0000-0000-000000000000",
+                    "m_serialiseFrozen": false,
+                    "name": "inst_571A98CF",
+                    "x": 128,
+                    "y": 608,
+                    "IsDnD": false,
+                    "colour": {
+                        "Value": 4294967295
+                    },
+                    "creationCodeFile": "",
+                    "creationCodeType": "",
+                    "inheritCode": false,
+                    "name_with_no_file_rename": "inst_571A98CF",
+                    "objId": "dbe6ca06-758d-4058-b447-b4e0890a056a",
+                    "rotation": 0,
+                    "scaleX": 1,
+                    "scaleY": 1
+                }
+            ]
+        },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "id": "c17bb531-b11a-4fa7-a815-9259c05bb274",
